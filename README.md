@@ -2,7 +2,7 @@
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-<h1 align="center">Hi 👋! I'm a Django | Flask | GO  | Ruby</h1>
+<h1 align="center">Hi 👋! I'm a Python | Django | Flask | GO  | Ruby</h1>
 
 ###
 <img align="right" width="100%" src="assets/app.jpg"  />
