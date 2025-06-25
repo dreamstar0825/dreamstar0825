@@ -98,7 +98,6 @@
   
 # 💫About Me :
 
-  <a href="https://dreamstar0825.vercel.app"><img src="assets/565f6a96caa04ba597ad5ed40c01345899.png" width="400" alt="three-js-master Card"/></a>
   
 🔭 I’m currently working on : Nothing
   
